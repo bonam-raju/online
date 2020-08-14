@@ -1,4 +1,10 @@
 this is ansible yml.file
 this is ansible script also
 this is windows 3rd line added for parlell devloep from dev1
+<<<<<<< HEAD
 this is 4rth line from  devleper1
+=======
+hello i am raj kumar 4th
+thank you for commiting 5th
+
+>>>>>>> 8b14b51fa20d4f22caf4e877f361f81a9308650f

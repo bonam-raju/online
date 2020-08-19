@@ -1,0 +1,7 @@
+this testing on parllel development
+<<<<<<< HEAD
+ this ansible file change from R3
+=======
+ this genkings file change from R2
+ this docker file change from R1
+>>>>>>> master
